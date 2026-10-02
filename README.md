@@ -1,6 +1,6 @@
 # Haberlerim
 
-T24, BBC Türkçe, DW Türkçe, Euronews Türkçe, NTV, Webtekno ve Ekonomim'den kişisel haber akışı. GitHub Pages üzerinde statik olarak çalışır. T24 önceliği, kaynak/kategori filtreleri, mobil görünüm ve koyu tema içerir.
+BBC Türkçe, DW Türkçe, Euronews Türkçe, NTV, T24, Webtekno ve Ekonomim'den kişisel haber akışı. GitHub Pages üzerinde statik olarak çalışır. Kaynak/kategori filtreleri, mobil görünüm ve koyu tema içerir.
 
 ## GitHub Pages kurulumu
 
