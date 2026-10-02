@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Haberlerim</title><meta name="description" content="Seçtiğim kaynaklardan gündem, dünya, ekonomi ve teknoloji haberleri.">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23183758'/%3E%3Cpath d='M8 8h4v7h8V8h4v16h-4v-6h-8v6H8z' fill='white'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css"><script src="app.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#news">Haberlere geç</a>
+<header><div class="masthead"><a class="brand" href="./">Haberlerim<span class="brand-dot">.</span></a><div class="header-right"><span id="today"></span><button id="theme" type="button" aria-label="Koyu temaya geç">Koyu tema</button></div></div></header>
+<div class="layout">
+<aside aria-label="Haber kaynakları"><p class="eyebrow">KAYNAKLARIM</p><nav id="sources" aria-label="Kaynak filtresi"></nav><div class="sidebar-note">Haberler kaynaklarına aittir.<br>Başlığa dokunarak haberi açabilirsin.</div><details id="health"><summary>Kaynakların durumu</summary><ul id="health-list"></ul></details></aside>
+<main>
+<section class="toolbar" aria-label="Haber filtreleri"><div><p class="eyebrow">GÜNÜN AKIŞI</p><h1 id="heading">Bütün haberler</h1><p id="updated" class="muted">Haberler yükleniyor…</p></div><button id="refresh" type="button">Akışı yenile</button></section>
+<div class="filter-row"><nav id="categories" aria-label="Kategori filtresi"></nav><label class="priority"><input id="priority" type="checkbox" checked> T24 önce</label></div>
+<p id="notice" class="notice" hidden></p><div class="list-meta"><span id="count" aria-live="polite"></span><span id="sort-label">T24 öncelikli · En yeni</span></div>
+<section id="news" aria-label="Haber akışı" aria-busy="true"></section>
+<footer>Başlıklar ve RSS özetleri · Tam metin için haberin kaynağını ziyaret et.</footer>
+</main></div>
+</body></html>
