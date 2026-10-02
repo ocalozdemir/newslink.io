@@ -1,0 +1,9 @@
+[
+  {"id":"t24","name":"T24","website":"https://t24.com.tr","feeds":["https://t24.com.tr/rss/haber/gundem/"],"homepage_fallback":true,"category":"Gündem","google_fallback":true,"domains":["t24.com.tr"]},
+  {"id":"bbc","name":"BBC Türkçe","website":"https://www.bbc.com/turkce","feeds":["https://feeds.bbci.co.uk/turkce/rss.xml"],"category":"Dünya","google_fallback":false,"domains":["bbc.com","bbc.co.uk"]},
+  {"id":"dw","name":"DW Türkçe","website":"https://www.dw.com/tr","feeds":["https://rss.dw.com/rdf/rss-tur-all"],"category":"Dünya","google_fallback":false,"domains":["dw.com"]},
+  {"id":"euronews","name":"Euronews Türkçe","website":"https://tr.euronews.com","feeds":["https://tr.euronews.com/rss"],"category":"Dünya","google_fallback":false,"domains":["euronews.com"]},
+  {"id":"ntv","name":"NTV","website":"https://www.ntv.com.tr","feeds":["https://www.ntv.com.tr/son-dakika.rss","https://www.ntv.com.tr/gundem.rss"],"category":"Gündem","google_fallback":true,"domains":["ntv.com.tr"]},
+  {"id":"webtekno","name":"Webtekno","website":"https://www.webtekno.com","feeds":["https://www.webtekno.com/rss.xml"],"category":"Teknoloji","google_fallback":true,"domains":["webtekno.com"]},
+  {"id":"ekonomim","name":"Ekonomim","website":"https://www.ekonomim.com","feeds":["https://www.ekonomim.com/export/rss"],"category":"Ekonomi","google_fallback":true,"domains":["ekonomim.com"]}
+]
