@@ -10,12 +10,18 @@
 <a class="skip" href="#news">Haberlere geç</a>
 <header><div class="masthead"><a class="brand" href="./">Haberlerim<span class="brand-dot">.</span></a><div class="header-right"><span id="today"></span><button id="theme" type="button" aria-label="Koyu temaya geç">Koyu tema</button></div></div></header>
 <div class="layout">
-<aside aria-label="Haber kaynakları"><p class="eyebrow">KAYNAKLARIM</p><nav id="sources" aria-label="Kaynak filtresi"></nav><div class="sidebar-note">Haberler kaynaklarına aittir.<br>Başlığa dokunarak haberi açabilirsin.</div><details id="health"><summary>Kaynakların durumu</summary><ul id="health-list"></ul></details></aside>
+<aside aria-label="Haber kaynakları"><p class="eyebrow">KAYNAKLARIM</p><nav id="sources" aria-label="Kaynak filtresi"></nav><div class="sidebar-note">Haberler kaynaklarına aittir.<br>Başlığa dokunarak özeti burada okuyabilirsin.</div><details id="health"><summary>Kaynakların durumu</summary><ul id="health-list"></ul></details></aside>
 <main>
 <section class="toolbar" aria-label="Haber filtreleri"><div><p class="eyebrow">GÜNÜN AKIŞI</p><h1 id="heading">Bütün haberler</h1><p id="updated" class="muted">Haberler yükleniyor…</p></div><button id="refresh" type="button">Akışı yenile</button></section>
 <div class="filter-row"><nav id="categories" aria-label="Kategori filtresi"></nav><label class="priority"><input id="priority" type="checkbox" checked> T24 önce</label></div>
 <p id="notice" class="notice" hidden></p><div class="list-meta"><span id="count" aria-live="polite"></span><span id="sort-label">T24 öncelikli · En yeni</span></div>
 <section id="news" aria-label="Haber akışı" aria-busy="true"></section>
-<footer>Başlıklar ve RSS özetleri · Tam metin için haberin kaynağını ziyaret et.</footer>
+<footer>Geniş özetler kendi cümlelerimizle hazırlanır · Tam metin için haberin kaynağını ziyaret et.</footer>
 </main></div>
+<dialog id="reader" aria-labelledby="reader-title">
+  <div class="reader-shell">
+    <div class="reader-top"><span id="reader-source" class="source-name"></span><button id="reader-close" type="button" aria-label="Okuma ekranını kapat" autofocus>Kapat</button></div>
+    <div class="reader-content"><p id="reader-label" class="eyebrow"></p><h2 id="reader-title"></h2><p id="reader-date" class="muted"></p><div id="reader-body"></div><p id="reader-note" class="reader-note"></p><a id="reader-original" class="original-link" target="_blank" rel="noopener noreferrer">Kaynakta tam haberi aç</a></div>
+  </div>
+</dialog>
 </body></html>
