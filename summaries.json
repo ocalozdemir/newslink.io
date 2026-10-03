@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T09:23:01Z",
+  "updated_at": "2026-10-03T10:22:22Z",
   "articles": {
     "https://t24.com.tr/haber/felsefe-ve-insan-haklarinin-oncu-ismi-prof-dr-ioanna-kucuradi-hayatini-kaybetti,1351181": {
       "title": "Felsefe ve insan haklarının öncü ismi Prof. Dr. İoanna Kuçuradi hayatını kaybetti",
@@ -624,6 +624,27 @@
       ],
       "published_at": "2026-10-03T08:02:00+00:00",
       "summarized_at": "2026-10-03T09:23:01Z"
+    },
+    "https://t24.com.tr/haber/netflix-turkiye-abonelik-ucretlerine-zam-yapti-iste-yeni-fiyatlar,1351250": {
+      "title": "Netflix Türkiye abonelik ücretlerine zam yaptı; işte yeni fiyatlar",
+      "source": "t24",
+      "paragraphs": [
+        "T24 Ekonomi’nin 3 Ekim tarihli haberine göre Netflix, Türkiye’deki üç abonelik paketinin de aylık ücretini artırdı. Temel planın fiyatı 189,99 liradan 259,99 liraya çıktı. Standart plan 289,99 lira yerine 389,99 lira, Premium plan ise 379,99 lira yerine 499,99 lira oldu.",
+        "Bu değişikliklerle Temel pakete 70, Standart pakete 100 ve Premium pakete 120 lira zam geldi. Haberde aktarılan yeni tarifede en düşük aylık abonelik ücreti 259,99 lira, en yüksek ücret 499,99 lira olarak belirtiliyor."
+      ],
+      "published_at": "2026-10-03T09:11:00+00:00",
+      "summarized_at": "2026-10-03T10:22:22Z"
+    },
+    "https://t24.com.tr/haber/fransa-ogrenci-eylemleriyle-calkalaniyor-bir-haftada-3-bin-gozalti-220-okul-isgal-eylemi-hukmet-adim-atmiyor,1351248": {
+      "title": "Fransa öğrenci eylemleriyle çalkalanıyor; bir haftada 3 bin gözaltı, 220 okul işgal eylemi: Hükûmet adım atmıyor",
+      "source": "t24",
+      "paragraphs": [
+        "T24 Dış Haberler’in 3 Ekim tarihli haberine göre Fransa’da bir haftadır süren lise öğrencisi protestolarında yaklaşık 3 bin kişi gözaltına alındı. İçişleri Bakanlığı, 220 okulda işgal veya abluka eylemi yapıldığını bildirdi. Haberde yaklaşık 400 polis ile toplam 230 okul çalışanı ve öğrencinin yaralandığı aktarılıyor. Milli Eğitim Bakanlığı ayrıca 40’ı okul müdürü olmak üzere 65 eğitim personelinin yaralandığını açıkladı.",
+        "Öğrenciler eğitim bütçesi, düşük öğretmen maaşları, kalabalık sınıflar, üniversite başvuru sisteminin işleyişi ve sıcak havalarda sınıfların koşullarını protesto ediyor. Hükümet şikâyetleri meşru bulduğunu belirtirken İçişleri Bakanlığı bazı eylemlerde patlayıcı kullanıldığını, kamu binalarının yakıldığını ve yağma yapıldığını ileri sürdü. Öğrenciler ise polisin göz yaşartıcı gaz ve aşırı güç kullandığını söylüyor.",
+        "Hükümet, Boyun Eğmeyen Fransa Partisi’ni protestoları kışkırtmakla suçluyor. Başbakan Sébastien Lecornu, seçilmiş yetkililerin gençleri koruyup sakinleşmeye çağırması gerektiğini savundu ve öfkenin siyasi amaçlarla kullanılmasını eleştirdi."
+      ],
+      "published_at": "2026-10-03T08:52:00+00:00",
+      "summarized_at": "2026-10-03T10:22:22Z"
     }
   }
 }
