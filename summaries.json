@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T10:22:22Z",
+  "updated_at": "2026-10-03T11:27:59Z",
   "articles": {
     "https://t24.com.tr/haber/felsefe-ve-insan-haklarinin-oncu-ismi-prof-dr-ioanna-kucuradi-hayatini-kaybetti,1351181": {
       "title": "Felsefe ve insan haklarının öncü ismi Prof. Dr. İoanna Kuçuradi hayatını kaybetti",
@@ -645,6 +645,27 @@
       ],
       "published_at": "2026-10-03T08:52:00+00:00",
       "summarized_at": "2026-10-03T10:22:22Z"
+    },
+    "https://t24.com.tr/haber/reuters-suudi-arabistan-husilere-yeni-operasyon-planliyor,1351262": {
+      "title": "Reuters: Suudi Arabistan, Husilere yeni operasyon planlıyor",
+      "source": "t24",
+      "paragraphs": [
+        "T24’ün Reuters’tan aktardığı habere göre Suudi Arabistan, Yemen’de Husilere karşı yeni bir askeri harekâtı değerlendiriyor. Bölgesel ve Batılı yetkililer, Kızıldeniz’de deniz ulaşımını güvenceye almak için Bab el-Mandeb çevresinde sınırlı bir kıyı operasyonu ile birkaç vilayette eş zamanlı saldırılar içeren daha geniş bir planın gündemde olduğunu söylüyor. Hazırlıklardan haberdar altı kaynağa göre kara gücünü Suudi destekli Yemenli birliklerin oluşturması, Riyad’ın hava desteği vermesi bekleniyor.",
+        "Kaynaklar ABD’nin istihbarat ve hedefleme bilgileri sağladığını; Türkiye ve Pakistan’ın da askeri ekipman katkısında bulunduğunu ileri sürüyor. Pakistanlı bir yetkili, Suudi Arabistan’a savunma amacıyla 30-40 bin asker gönderildiğini, ancak bu askerleri Yemen’de doğrudan savaşa sokma kararı alınmadığını belirtiyor. İlgili hükümetler ve kurumlar, Reuters’ın sorularına yanıt vermemiş.",
+        "Başlangıç tarihi kesinleşmiş değil: Kaynaklar harekâtın bir hafta içinde başlayabileceğini veya kasım başındaki ABD ara seçimleri sonrasına bırakılabileceğini söylüyor. Riyad’ın petrol tesislerini olası Husi saldırılarından koruma kaygısı taşıdığı aktarılıyor. Yemen analisti Mohammed Albasha ise parçalı yerel birliklerin uzun süreli bir saldırı için yeterince örgütlü olmadığını değerlendiriyor."
+      ],
+      "published_at": "2026-10-03T10:23:00+00:00",
+      "summarized_at": "2026-10-03T11:27:59Z"
+    },
+    "https://t24.com.tr/haber/imamoglundan-avukati-mehmet-pehlivanin-gece-3te-baska-cezaevine-sevkine-bu-yapilan-zalimlik-dusman-ceza-hukuku-isletiliyor,1351256": {
+      "title": "İmamoğlu'ndan avukatı Mehmet Pehlivan'ın gece 3'te başka cezaevine sevkine: Bu yapılan zalimlik, düşman ceza hukuku işletiliyor!",
+      "source": "t24",
+      "paragraphs": [
+        "T24’ün 3 Ekim tarihli haberine göre Ekrem İmamoğlu, tutuklu avukatı Mehmet Pehlivan’ın Çorlu’daki Karatepe Yüksek Güvenlikli Ceza İnfaz Kurumu’ndan Kandıra F Tipi Cezaevi’ne gece saatlerinde nakledilmesine tepki gösterdi. Haberde, Yeni Partili Murat Emir’in sevkin gece saat 03.00’te yapıldığını açıkladığı hatırlatılıyor. Pehlivan’ın duruşmaları devam ederken gerçekleşen nakil, İmamoğlu’nun mesajının odağını oluşturuyor.",
+        "İmamoğlu, sevkin gerekçesiz olduğunu ve kötü muamele ile işkence yasağını ihlal ettiğini ileri sürdü; Pehlivan’ın tutukluluğunu da hukuka aykırı bulduğunu belirtti. Avukatlık ve adaleti savunmanın suç sayılamayacağını vurgulayarak hukukçulara, ilgili kurumlara ve Pehlivan’ın meslektaşlarına harekete geçme çağrısı yaptı. Bu hukuki değerlendirmeler haberde İmamoğlu’nun görüşleri olarak aktarılıyor."
+      ],
+      "published_at": "2026-10-03T09:45:00+00:00",
+      "summarized_at": "2026-10-03T11:27:59Z"
     }
   }
 }
