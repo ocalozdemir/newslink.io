@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T07:28:26Z",
+  "updated_at": "2026-10-03T08:29:43Z",
   "articles": {
     "https://t24.com.tr/haber/felsefe-ve-insan-haklarinin-oncu-ismi-prof-dr-ioanna-kucuradi-hayatini-kaybetti,1351181": {
       "title": "Felsefe ve insan haklarının öncü ismi Prof. Dr. İoanna Kuçuradi hayatını kaybetti",
@@ -561,6 +561,28 @@
       ],
       "published_at": "2026-10-03T05:42:35+00:00",
       "summarized_at": "2026-10-03T07:28:26Z"
+    },
+    "https://t24.com.tr/haber/bae-bassavcisindan-flydubai-ucagi-aciklamasi-sorusturma-pilotun-teror-eylemi-girisiminde-bulundugunu-gosteriyor,1351243": {
+      "title": "BAE Başsavcısı'ndan 'Flydubai uçağı' açıklaması: Soruşturma, pilotun terör eylemi girişiminde bulunduğunu gösteriyor",
+      "source": "t24",
+      "paragraphs": [
+        "T24’ün Anadolu Ajansı’ndan aktardığı habere göre Birleşik Arap Emirlikleri Başsavcısı Hamed Seyf eş-Şamisi, Flydubai’nin Dubai-İsrail seferindeki olayın soruşturmasında yardımcı pilotun terör eylemine teşebbüs ettiğine ilişkin bulgular elde edildiğini açıkladı. WAM’ın yayımladığı açıklamada Şamisi, yardımcı pilotun kaptan pilota kokpitte acil durum baltasıyla saldırdığını ve uçağın kontrolünü almaya çalıştığını belirtti.",
+        "Başsavcı, olayın nedenleri ve bağlantıları dahil soruşturmanın sürdüğünü, nihai sonuçların işlemler tamamlandıktan sonra açıklanacağını söyledi. Daha önce İsrail basınında bıçaklı saldırı ve uçağı düşürme girişimi iddiaları yer almıştı; yeni başsavcılık açıklaması saldırı aracı olarak balta tarif ediyor. Suudi Arabistan İçişleri Bakanlığı ise ilk soruşturmada iki pilotun da yaralandığının belirlendiğini bildirmişti.",
+        "30 Eylül’de havalanan FZ1073 seferi, olaydan sonra Suudi Arabistan’ın Tebük kentinde acil iniş yaptı. Pilotların tedavilerinin ardından BAE güvenlik ekibiyle Abu Dabi’ye götürüldüğü aktarıldı. Flydubai, Tel Aviv uçuşlarını yeni bir duyuruya kadar durdurmuştu."
+      ],
+      "published_at": "2026-10-03T08:04:00+00:00",
+      "summarized_at": "2026-10-03T08:29:43Z"
+    },
+    "https://t24.com.tr/haber/cemil-tugay-akpye-gececek-iddiasi-tarih-verildi,1351240": {
+      "title": "Cemil Tugay AKP'ye geçecek iddiası yeniden: Tarih verildi; \"O gün itibarıyla geçiş kararı netleşmişti\"",
+      "source": "t24",
+      "paragraphs": [
+        "T24’ün 3 Ekim tarihli haberinde, CHP’den istifa eden İzmir Büyükşehir Belediye Başkanı Cemil Tugay’ın gelecek hafta AKP’nin ilk grup toplantısında partiye katılabileceği iddiası aktarılıyor. A Haber’e konuşan gazeteci Zafer Şahin, bu bilgiyi İzmirli gazeteci Onur Çakır’dan aldığını söyledi. Şahin, olası katılım için 7 veya 8 Ekim tarihlerini dile getiriyor; haberde kesinleşmiş bir katılım duyurusu yer almıyor.",
+        "Şahin, AKP’nin İzmir milletvekilleriyle de görüştüğünü ve Tugay’ın Ankara ziyaretinin yapıldığı gün geçiş kararının netleştiği bilgisini edindiğini ileri sürdü. Erdoğan ve Ulaştırma Bakanı Abdulkadir Uraloğlu ile görüşmeleri parti değişikliğinin işareti olarak yorumladı. Bu değerlendirmeler Şahin’in aktarımı olarak sunuluyor.",
+        "Haberde Tugay’ın bir gün önce Atatürkçü Düşünce Derneği üyeliğinden de ayrıldığı hatırlatılıyor. Tugay’ın bu ayrılma kararını siyasi tercih olarak değerlendirmediğinin öğrenildiği belirtiliyor."
+      ],
+      "published_at": "2026-10-03T07:33:00+00:00",
+      "summarized_at": "2026-10-03T08:29:43Z"
     }
   }
 }
