@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T22:23:47Z",
+  "updated_at": "2026-10-03T05:24:56Z",
   "articles": {
     "https://t24.com.tr/haber/felsefe-ve-insan-haklarinin-oncu-ismi-prof-dr-ioanna-kucuradi-hayatini-kaybetti,1351181": {
       "title": "Felsefe ve insan haklarının öncü ismi Prof. Dr. İoanna Kuçuradi hayatını kaybetti",
@@ -470,6 +470,26 @@
       ],
       "published_at": "2026-10-02T21:03:00+00:00",
       "summarized_at": "2026-10-02T22:23:47Z"
+    },
+    "https://t24.com.tr/haber/camia-uzerinde-guc-unsuru-olarak-kullaniliyor-suclamasi-hakemler-dernegi-istanbul-subesine-kapatma-davasi,1351217": {
+      "title": "\"Camia üzerinde güç unsuru olarak kullanılıyor\" suçlaması: Hakemler Derneği İstanbul şubesine kapatma davası",
+      "source": "t24",
+      "paragraphs": [
+        "İstanbul Cumhuriyet Başsavcılığı, Türkiye Faal Futbol Hakemleri ve Gözlemcileri Derneği İstanbul Şubesi’nin feshedilmesi için asliye hukuk mahkemesinde dava açtı. T24’ün DHA’dan aktardığına göre savcılık, dernek yönetiminin hakemleri kendilerine yakınlıkları ve yönlendirmeye açıklıkları üzerinden sınıflandırdığını gösterdiğini belirttiği mesaj ve belgeleri dava dilekçesine dayanak yaptı.",
+        "Dilekçede, maç ve gözlemci görevlendirmelerinde nesnel ölçütler yerine bağlılık ve sadakatin öne çıkarıldığı; dernek başkanlığının futbol ve hakemlik çevresinde güç oluşturmak amacıyla kullanıldığı ileri sürülüyor. Başsavcılık, bu faaliyetlerin tüzükteki amaçları aştığını ve süreklilik taşıdığını değerlendirerek Türk Medeni Kanunu’nun 89. maddesi uyarınca fesih istedi. Haber, mahkemenin kapatma kararı verdiğini bildirmiyor; aktarılan değerlendirmeler savcılığın iddiaları ve talebi niteliğinde."
+      ],
+      "published_at": "2026-10-03T04:57:44+00:00",
+      "summarized_at": "2026-10-03T05:24:56Z"
+    },
+    "https://t24.com.tr/haber/mansur-yavas-tan-akp-ye-gececek-misiniz-sorusuna-yanit-istifa-metnimdeki-o-cumlelere-bakin,1351213": {
+      "title": "Mansur Yavaş'tan \"AKP'ye geçecek misiniz?\" sorusuna yanıt: İstifa metnimdeki o cümlelere bakın",
+      "source": "t24",
+      "paragraphs": [
+        "Ankara Büyükşehir Belediye Başkanı Mansur Yavaş, CHP’den ayrıldıktan sonra AKP’ye katılıp katılmayacağı sorusuna, istifa açıklamasındaki seçmen iradesine bağlılık vurgusunu hatırlatarak yanıt verdi. T24’ün Nefes yazarı Aytunç Erkin’den aktardığı görüşmede Yavaş, seçmenin onaylamadığı bir partiye makam taşınmasını doğru bulmadığını belirttiği metne işaret etti. Haberde bağımsız devam etme kararı öne çıkarılıyor.",
+        "Yavaş’ın anlatımına göre Faik Öztrak’ın açıklamasından sonra istifa metni hazırladı; Kemal Kılıçdaroğlu’nun telefonuyla bunu bir süre bekletti. CHP Sözcüsü Müslim Sarı’nın daha sonraki sözleri üzerine ayrılma kararı aldı. Erdoğan’la 9 Eylül’deki görüşmesi de soruda hatırlatıldı. Erkin, yanıtı AKP’ye geçmeyeceği şeklinde yorumluyor; Yavaş’ın aktarılan cevabı ise doğrudan yeni bir parti takvimi açıklamak yerine önceki metnine gönderme yapıyor."
+      ],
+      "published_at": "2026-10-03T04:39:45+00:00",
+      "summarized_at": "2026-10-03T05:24:56Z"
     }
   }
 }
