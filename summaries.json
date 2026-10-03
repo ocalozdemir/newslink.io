@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T19:26:49Z",
+  "updated_at": "2026-10-03T20:29:20Z",
   "articles": {
     "https://t24.com.tr/haber/felsefe-ve-insan-haklarinin-oncu-ismi-prof-dr-ioanna-kucuradi-hayatini-kaybetti,1351181": {
       "title": "Felsefe ve insan haklarının öncü ismi Prof. Dr. İoanna Kuçuradi hayatını kaybetti",
@@ -824,6 +824,16 @@
       ],
       "published_at": "2026-10-03T18:20:00+00:00",
       "summarized_at": "2026-10-03T19:26:49Z"
+    },
+    "https://t24.com.tr/haber/yurt-disi-cikis-yasagi-ve-adli-kontrolle-serbest-birakilmisti-mhk-uyesi-sebahattin-sahin-gorevinden-istifa-etti,1351340": {
+      "title": "Yurt dışı çıkış yasağı ve adli kontrolle serbest bırakılmıştı: MHK üyesi Sebahattin Şahin görevinden istifa etti!",
+      "source": "t24",
+      "paragraphs": [
+        "T24’ün gazeteci Burak Doğan’ın haberine dayandırdığı bilgiye göre, Merkez Hakem Kurulu üyesi Sebahattin Şahin görevinden istifa etti. Türkiye Futbol Federasyonu’nda eğitim ve 4. bölge sorumluluğunu üstlenen Şahin, hakemlerle ilgili soruşturmada gözaltına alınmasının ardından yurt dışına çıkış yasağı ve adli kontrol şartıyla serbest bırakılmıştı.",
+        "İstanbul Cumhuriyet Başsavcılığı’nın yürüttüğü soruşturmada resmî belgede sahtecilik ve mobbing iddiaları inceleniyor. Habere göre aynı dosyada MHK Başkanı Ferhat Gündoğdu ile dört kişi tutuklandı; Ahmet Şahin de adli kontrolle serbest bırakıldı. Gündoğdu, soruşturmaya konu edilen işlemlerin olağan idari kararlar olduğunu savunarak mobbing iddiasını reddetti. Haberde aktarılan suçlamalar soruşturma aşamasındaki iddialar olarak yer alıyor."
+      ],
+      "published_at": "2026-10-03T19:47:00+00:00",
+      "summarized_at": "2026-10-03T20:29:20Z"
     }
   }
 }
